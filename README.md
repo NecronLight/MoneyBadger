@@ -1,4 +1,4 @@
-# MoneyBadger 🦡 - Educação Financeira e Investimentos
+Clique no link acima para acessar o site
 
 Plataforma completa para aprender sobre investimentos, simular rendimentos e acompanhar notícias do mercado financeiro.
 
